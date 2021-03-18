@@ -22,6 +22,9 @@ Here are some ideas to get you started:
 ###### React/React-Native/Node/Mongo
 
 <span align="center">
-<a href="mailto:sonusanwal65@gmail.com"><img src="http://www.exclaimer.com/content/images/gmail-35x35.gif"/></a>&nbsp;	
-<a href=""><img src="http://www.exclaimer.com/content/images/twitter-35x35.gif" /></a>&nbsp;
+<a href="mailto:sonusanwal65@gmail.com"><img src="https://img.icons8.com/fluent/50/000000/gmail--v2.png"/></a>&nbsp;	
+<a href="https://twitter.com/im_sanwal"><img src="https://img.icons8.com/color/48/000000/twitter--v2.png"/></a>&nbsp;
 </span>
+
+
+<a href="https://icons8.com/icon/qyRpAggnV0zH/gmail">Gmail icon by Icons8</a>
