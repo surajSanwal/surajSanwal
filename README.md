@@ -30,4 +30,4 @@ Here are some ideas to get you started:
 </span>
 
 
-<a href="https://icons8.com/icon/qyRpAggnV0zH/gmail">icon by Icons8</a>
+<a href="https://icons8.com/icon/qyRpAggnV0zH">icons by Icons8</a>
