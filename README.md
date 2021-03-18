@@ -13,13 +13,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-<span align="center">
-<a href="mailto:sonusanwal65@gmail.com"><img src="http://www.exclaimer.com/content/images/gmail-35x35.gif"/></a>&nbsp;	
-<a href=""><img src="http://www.exclaimer.com/content/images/twitter-35x35.gif" /></a>&nbsp;
 -->
+
+
 
 # Suraj Sanwal
 ###### Senior Software Developer
 ###### React/React-Native/Node/Mongo
 
+<span align="center">
+<a href="mailto:sonusanwal65@gmail.com"><img src="http://www.exclaimer.com/content/images/gmail-35x35.gif"/></a>&nbsp;	
+<a href=""><img src="http://www.exclaimer.com/content/images/twitter-35x35.gif" /></a>&nbsp;
+</span>
