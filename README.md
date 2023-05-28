@@ -60,6 +60,7 @@ Proficient with object-based programming languages, as well as algorithms, data 
 <span align="center">
 <a href="https://twitter.com/im_sanwal" target="_blank"><img src="https://img.icons8.com/color/48/000000/twitter--v2.png"/></a>&nbsp;
 <a href="https://facebook.com/swraporians" target="_blank"><img src="https://img.icons8.com/color/48/000000/facebook-circled--v2.png"/></a>&nbsp;
+  <a href="https://www.instagram.com/swraporians" target="_blank"><img src="https://img.icons8.com/color/48/000000/instagram--v2.png"/></a>&nbsp;
 </span>
 
 - 👀 Icons used by:
