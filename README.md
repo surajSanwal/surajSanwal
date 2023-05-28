@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 # Suraj Sanwal
 ###### Senior Software Developer
 ###### React/React-Native/Node/Mongo
+***
 
 ##### About
 
@@ -49,19 +50,20 @@ Proficient with object-based programming languages, as well as algorithms, data 
 
 
 
-##### 📫 want to Connect with me?
+##### **🕵️‍♂️** want to Connect with me?
 
 <span align="center">
 <a href="mailto:sonusanwal65@gmail.com" target="_blank"><img src="https://img.icons8.com/fluent/50/000000/gmail--v2.png"/></a>&nbsp;	
 <a href="skype:live:sonusanwal65" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/skype--v2.png"/></a>&nbsp;	
 </span>
 
-##### 📫 want to follow me?
+##### **✌️** want to follow me?
 <span align="center">
 <a href="https://twitter.com/im_sanwal" target="_blank"><img src="https://img.icons8.com/color/48/000000/twitter--v2.png"/></a>&nbsp;
 <a href="https://facebook.com/swraporians" target="_blank"><img src="https://img.icons8.com/color/48/000000/facebook-circled--v2.png"/></a>&nbsp;
   <a href="https://www.instagram.com/swraporians" target="_blank"><img src="https://img.icons8.com/color/48/000000/instagram--v2.png"/></a>&nbsp;
 </span>
 
+***
 - 👀 Icons used by:
 <a href="https://icons8.com/icon">icons by Icons8</a>
