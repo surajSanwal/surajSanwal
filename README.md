@@ -1,69 +1,67 @@
+# **Suraj Sanwal**  
+### 🚀 AI-Assisted Software Developer | Web & Mobile Expert | Scalable & High-Performance Solutions  
 
-<!-- ## Hi there 👋
-**surajSanwal/surajSanwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---  
 
-Here are some ideas to get you started:
+## 🔹 About Me  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ... ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I am an **AI-assisted software developer** with **7+ years** of experience in designing and developing **scalable web and mobile applications** that enhance user experience and drive business growth. Passionate about crafting **high-performance, user-centric applications**, I specialize in **custom communication solutions** and **mobile-first development** to optimize business operations.  
 
--->
+💡 **Industry Expertise:** Healthcare | Telecommunication | Logistics  
 
-# Suraj Sanwal
-###### Senior Software Developer
-###### React/React-Native/Node/Mongo
-***
+With a strong foundation in **object-oriented programming, algorithms, and data structures**, I thrive in cross-functional teams, delivering robust applications with a focus on **efficiency, security, and reliability**.  
 
-##### About
+---  
 
-Methodical, Client-Focused full-stack software developer with over five+ years of experience in web and mobile application development. Adept at managing all stages of the software development life-cycle, from requirements gathering and feasibility studies to deployment and maintenance. Recognized for developing bespoke communication and mobile applications that optimize business performance and generate positive customer reviews.
+## 🔧 Tech Stack  
 
-Proficient with object-based programming languages, as well as algorithms, data structures. Enjoys collaborating with colleagues and building cultures of cross-functional working to offer a greater platform for the success of projects.
+### **Frontend Development**  
+✔ **Web Technologies**: HTML, CSS, SCSS, Tailwind CSS  
+✔ **Frameworks & Libraries**: React.js, Next.js, Vue.js, Redux, Thunk, Saga, Zustand, RTK-Query, RTL, Cypress, Playwright 
+✔ **Mobile Development**: React Native  
 
+### **Backend Development**  
+✔ **Languages & Frameworks**: Node.js, Express.js, Hapi.js, Python, FastAPI 
+✔ **Databases**: MongoDB, P/L-SQL
 
-##### Technical Stack
+### **DevOps & Tools**  
+✔ **Cloud & Infrastructure**: GCP, AWS, ShareTribe Flex  
+✔ **Project Management**: JIRA, Trello, Hive, Monday 
+✔ **Version Control**: Git, Bitbucket, GitLab, SVN  
+✔ **API Development & Testing**: Swagger, Postman  
 
-**Web**: HTML, CSS, SCSS
+---  
 
-**Frontend**: React JS, Next JS, Vue JS
+## 📬 Connect with Me  
 
-**Framework**: ShareTribe Flex, AWS
+<p align="left">  
+  <a href="mailto:sonusanwal65@gmail.com" target="_blank">  
+    <img src="https://img.icons8.com/fluent/48/000000/gmail-new.png"/>  
+  </a>  
+  &nbsp;  
+  <a href="skype:live:sonusanwal65" target="_blank">  
+    <img src="https://img.icons8.com/fluent/48/000000/skype.png"/>  
+  </a>  
+</p>  
 
-**Libraries**: Redux, Thunk, Saga
+---  
 
-**Mobile**: React-Native
+## ✨ Follow Me  
 
-**Backend**: ExpressJS, Hapi JS, Node JS
+<p align="left">  
+  <a href="https://twitter.com/im_sanwal" target="_blank">  
+    <img src="https://img.icons8.com/color/48/000000/twitter--v2.png"/>  
+  </a>  
+  &nbsp;  
+  <a href="https://facebook.com/swraporians" target="_blank">  
+    <img src="https://img.icons8.com/color/48/000000/facebook.png"/>  
+  </a>  
+  &nbsp;  
+  <a href="https://www.instagram.com/swraporians" target="_blank">  
+    <img src="https://img.icons8.com/color/48/000000/instagram-new.png"/>  
+  </a>  
+</p>  
 
-**Database**: MongoDB,
+---  
 
-**Project Management**: JIRA, Trello, Hive
-
-**Code Management**: Git, Bitbucket, Gitlab, SVN
-
-**API Tools**: Swagger, Postman
-
-
-
-##### **🕵️‍♂️** want to Connect with me?
-
-<span align="center">
-<a href="mailto:sonusanwal65@gmail.com" target="_blank"><img src="https://img.icons8.com/fluent/50/000000/gmail--v2.png"/></a>&nbsp;	
-<a href="skype:live:sonusanwal65" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/skype--v2.png"/></a>&nbsp;	
-</span>
-
-##### **✌️** want to follow me?
-<span align="center">
-<a href="https://twitter.com/im_sanwal" target="_blank"><img src="https://img.icons8.com/color/48/000000/twitter--v2.png"/></a>&nbsp;
-<a href="https://facebook.com/swraporians" target="_blank"><img src="https://img.icons8.com/color/48/000000/facebook-circled--v2.png"/></a>&nbsp;
-  <a href="https://www.instagram.com/swraporians" target="_blank"><img src="https://img.icons8.com/color/48/000000/instagram--v2.png"/></a>&nbsp;
-</span>
-
-***
-- 👀 Icons used by:
-<a href="https://icons8.com/icon">icons by Icons8</a>
+💡 **Icons by** [Icons8](https://icons8.com/icon)  
