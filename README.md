@@ -17,16 +17,16 @@ With a strong foundation in **object-oriented programming, algorithms, and data 
 
 ### **Frontend Development**  
 ✔ **Web Technologies**: HTML, CSS, SCSS, Tailwind CSS  
-✔ **Frameworks & Libraries**: React.js, Next.js, Vue.js, Redux, Thunk, Saga, Zustand, RTK-Query, RTL, Cypress, Playwright 
+✔ **Frameworks & Libraries**: React.js, Next.js, Vue.js, Redux, Thunk, Saga, Zustand, RTK-Query, RTL, Cypress, Playwright  
 ✔ **Mobile Development**: React Native  
 
 ### **Backend Development**  
-✔ **Languages & Frameworks**: Node.js, Express.js, Hapi.js, Python, FastAPI 
-✔ **Databases**: MongoDB, P/L-SQL
+✔ **Languages & Frameworks**: Node.js, Express.js, Hapi.js, Python, FastAPI  
+✔ **Databases**: MongoDB, P/L-SQL  
 
 ### **DevOps & Tools**  
 ✔ **Cloud & Infrastructure**: GCP, AWS, ShareTribe Flex  
-✔ **Project Management**: JIRA, Trello, Hive, Monday 
+✔ **Project Management**: JIRA, Trello, Hive, Monday  
 ✔ **Version Control**: Git, Bitbucket, GitLab, SVN  
 ✔ **API Development & Testing**: Swagger, Postman  
 
@@ -41,6 +41,10 @@ With a strong foundation in **object-oriented programming, algorithms, and data 
   &nbsp;  
   <a href="skype:live:sonusanwal65" target="_blank">  
     <img src="https://img.icons8.com/fluent/48/000000/skype.png"/>  
+  </a>  
+  &nbsp;  
+  <a href="https://www.linkedin.com/in/ssanwal/" target="_blank">  
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png"/>  
   </a>  
 </p>  
 
@@ -61,6 +65,12 @@ With a strong foundation in **object-oriented programming, algorithms, and data 
     <img src="https://img.icons8.com/color/48/000000/instagram-new.png"/>  
   </a>  
 </p>  
+
+---  
+
+## 🌐 Portfolio  
+
+<a href="https://surajsanwal.vercel.app/" target="_blank">🌍 Visit My Portfolio</a>  
 
 ---  
 
